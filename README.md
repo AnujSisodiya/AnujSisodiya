@@ -1,209 +1,407 @@
-I'm a Computer Science graduate with hands-on experience building **real-time IoT systems**, **AI-powered chatbots**, and **full-stack health platforms**. My recent work spans backend reliability engineering at IIT Mandi, mobile development with Flutter, and cloud certification prep (AWS, Azure). I care about clean architecture, performance optimization, and shipping production-ready software.
+````markdown
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:6A11CB,50:8E2DE2,100:4A00E0&text=Anuj%20Sisodiya&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3000&pause=1000&color=A970FF&center=true&vCenter=true&width=900&lines=Software+Engineer;Full+Stack+Developer;AI+%26+Cloud+Enthusiast;Open+Source+Contributor;Building+Scalable+Applications"/>
+
+<br/>
+
+![](https://img.shields.io/badge/B.Tech-CSE-6A11CB?style=for-the-badge)
+![](https://img.shields.io/badge/GPA-7.44%2F10-8E2DE2?style=for-the-badge)
+![](https://img.shields.io/badge/Open%20Source-Contributor-4A00E0?style=for-the-badge)
+
+![](https://img.shields.io/badge/Location-Agra%2C%20India-6A11CB?style=for-the-badge)
+
+<a href="https://github.com/AnujSisodiya">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://linkedin.com/in/anujsisodiya">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:anujsisodiya456@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+![](https://komarev.com/ghpvc/?username=AnujSisodiya&style=for-the-badge&color=8E2DE2)
+
+![](https://img.shields.io/github/followers/AnujSisodiya?style=for-the-badge&color=6A11CB)
+![](https://img.shields.io/github/stars/AnujSisodiya?style=for-the-badge&color=8E2DE2)
+
+</div>
 
 ---
 
-### ⚙️ Tech Stack
+# About Me
 
-**Languages**
-![C++](https://skillicons.dev/icons?i=cpp) ![Python](https://skillicons.dev/icons?i=python) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![SQL](https://skillicons.dev/icons?i=mysql)
+Software Engineer passionate about building scalable software systems, backend architectures, AI-powered applications, and cloud-native solutions.
 
-**Frontend**
-![React](https://skillicons.dev/icons?i=react) ![HTML5](https://skillicons.dev/icons?i=html) ![CSS3](https://skillicons.dev/icons?i=css) ![Flutter](https://skillicons.dev/icons?i=flutter)
+I graduated with a **B.Tech in Computer Science** and have hands-on experience across **Software Engineering, Full Stack Development, REST APIs, Database Optimization, AI Applications, Cloud Technologies, and IoT Systems**.
 
-**Backend & Databases**
-![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express) ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![MySQL](https://skillicons.dev/icons?i=mysql) ![Supabase](https://skillicons.dev/icons?i=supabase) ![Redis](https://skillicons.dev/icons?i=redis)
+My engineering approach focuses on:
 
-**Cloud, DevOps & Tooling**
-![AWS](https://skillicons.dev/icons?i=aws) ![Azure](https://skillicons.dev/icons?i=azure) ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![Docker](https://skillicons.dev/icons?i=docker) ![Postman](https://skillicons.dev/icons?i=postman)
+- Designing scalable applications
+- Writing clean and maintainable code
+- Solving complex problems using DSA
+- Building reliable backend systems
+- Delivering production-ready software
+- Applying AI to real-world use cases
+
+### Open To
+
+- Software Engineer Roles
+- Systems Engineer Roles
+- Full Stack Developer Roles
+- Backend Developer Roles
+- Cloud & DevOps Opportunities
+- AI Engineering Opportunities
 
 ---
 
-### 🤖 AI / ML Expertise
+# Tech Stack
+
+## Languages
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,python,javascript,sql"/>
+
+</p>
+
+## Frontend
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,html,css,flutter"/>
+
+</p>
+
+## Backend & Databases
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql"/>
+
+</p>
+
+## Cloud, DevOps & Tooling
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=aws,git,github,postman"/>
+
+</p>
+
+---
+
+# AI / ML Expertise
 
 | Domain | Proficiency | Details |
-|---|---|---|
-| Natural Language Processing | Intermediate | Built emotion-aware chatbot with context-aware response generation |
-| REST API Integration for AI Systems | Advanced | Designed low-latency APIs connecting AI backends to frontends |
-| Transfer Learning (CV) | Intermediate | Brain CT scan classification using EfficientNet-B3 / ResNet-50 |
-| Model Deployment | Intermediate | FastAPI + Docker deployment of ML inference services |
-| Data Preprocessing | Intermediate | DICOM image preprocessing & pipeline optimization |
+|----------|------------|------------|
+| Generative AI | Advanced | LLM Applications, Prompt Engineering |
+| Conversational AI | Advanced | AI Chatbots, NLP Workflows |
+| Machine Learning | Intermediate | Model Training & Evaluation |
+| Data Processing | Intermediate | Data Cleaning & Analysis |
+| Backend AI Systems | Advanced | API Integration & Deployment |
+| AI Product Engineering | Advanced | End-to-End AI Application Development |
 
 ---
 
-### 🚀 Featured Projects
+# Featured Projects
 
 <details>
-<summary><b>🟣 Emotion-Aware AI Chatbot</b></summary>
-<br>
+<summary><b>Emotion-Aware AI Chatbot</b></summary>
 
-An AI-powered chatbot that analyzes user input and generates context-aware responses through structured backend processing.
+### Overview
 
-| Aspect | Detail |
-|---|---|
-| **Stack** | Python, REST APIs |
-| **Scale** | Real-time conversational pipeline |
-| **Performance** | Reduced response latency by 40% |
-| **Security** | Structured input validation & response testing |
-| **Impact** | Improved chatbot reliability and response accuracy |
-| **Repository** | [github.com/AnujSisodiya](https://github.com/AnujSisodiya) |
+AI-powered chatbot capable of understanding user emotions and generating context-aware responses.
 
-Architected REST APIs enabling seamless real-time communication between frontend and backend, with structured testing pipelines improving overall response accuracy.
+| Category | Details |
+|-----------|-----------|
+| Stack | Python, REST APIs |
+| Scale | Real-time Conversations |
+| Performance | Reduced Response Latency by 40% |
+| Security | Secure Backend Architecture |
+| Impact | Mental Health Support Platform |
+| Repository | Add Repository Link |
+
+### Engineering Highlights
+
+- Built intelligent conversational workflows
+- Developed backend APIs for real-time communication
+- Implemented response validation pipelines
+- Improved chatbot reliability and accuracy
+- Designed scalable backend architecture
 
 </details>
 
 <details>
-<summary><b>🟣 WellNest — Full Stack Health Platform</b></summary>
-<br>
+<summary><b>WellNest - Full Stack Health Platform</b></summary>
 
-A full-stack health platform serving 250+ users with a focus on reliability and performance.
+### Overview
 
-| Aspect | Detail |
-|---|---|
-| **Stack** | React.js, Node.js, MongoDB |
-| **Scale** | 250+ active users |
-| **Performance** | Reduced issue resolution time by 30% via query optimization |
-| **Security** | Functional & backend validation testing |
-| **Impact** | Improved feature stability and application reliability |
-| **Repository** | [github.com/AnujSisodiya](https://github.com/AnujSisodiya) |
+Full-stack healthcare platform serving users through secure and scalable architecture.
 
-Built with structured SDLC practices, including functional testing, debugging, log monitoring, and backend validation to deliver scalable, maintainable features.
+| Category | Details |
+|-----------|-----------|
+| Stack | React.js, Node.js, MongoDB |
+| Scale | 250+ Users |
+| Performance | 30% Faster Issue Resolution |
+| Security | Secure Authentication & Data Handling |
+| Impact | Health Management Platform |
+| Repository | Add Repository Link |
+
+### Engineering Highlights
+
+- Developed complete MERN architecture
+- Implemented optimized MongoDB queries
+- Built RESTful APIs
+- Performed backend validation and testing
+- Improved application stability and reliability
+
+</details>
+
+<details>
+<summary><b>IoT Monitoring Platform</b></summary>
+
+### Overview
+
+Real-time IoT monitoring system handling environmental and landslide monitoring data.
+
+| Category | Details |
+|-----------|-----------|
+| Stack | Node.js, APIs, IoT Integration |
+| Scale | 12,000+ Events Daily |
+| Performance | Reliability Improved by 30% |
+| Security | Production Monitoring & Validation |
+| Impact | Research Infrastructure |
+| Repository | Private / Research Project |
+
+### Engineering Highlights
+
+- Processed high-volume sensor data
+- Implemented API services
+- Optimized database operations
+- Conducted root-cause analysis
+- Enhanced backend performance
 
 </details>
 
 ---
 
-### 💼 Experience
+# Experience
 
-**Research & Software Intern** · IIT Mandi
-*Nov 2025 – Mar 2026*
+## Research & Software Intern | IIT Mandi
 
-Contributed to a real-time IoT monitoring system processing 12,000+ events/day, applying SDLC best practices to improve reliability and performance.
+**Nov 2025 – Mar 2026**
 
-- Performed database validation, query optimization, and log analysis — improved reliability by 30%
-- Debugged and resolved recurring production issues via root cause analysis — reduced critical failures by 25%
-- Collaborated with engineering teams during code reviews and implementation of scalable components
+Worked on a real-time IoT monitoring platform used for environmental and landslide monitoring systems.
 
-`SDLC` `Database Validation` `Query Optimization` `Debugging` `Production Support`
+### Scope of Work
 
-<br>
+- Developed and maintained backend services
+- Processed 12,000+ daily IoT events
+- Improved reliability by 30%
+- Optimized database performance
+- Conducted debugging and production support
+- Collaborated in testing and code reviews
 
-**Flutter Developer Intern** · Matriqgo
-*Mar 2026 – May 2026*
+### Skills
 
-Developed a scalable mobile application using Flutter and Dart with modular architecture.
-
-- Implemented BLoC state management for efficient state handling
-- Integrated Supabase for authentication, database operations, and real-time sync
-- Debugged, tested, and enhanced features to improve app performance
-
-`Flutter` `Dart` `BLoC` `Supabase`
+`Node.js` `IoT` `APIs` `Testing` `Database Optimization` `SDLC`
 
 ---
 
-### 🏆 Achievements
+## Flutter Developer Intern | Matriqgo
+
+**Mar 2026 – May 2026**
+
+Contributed to the development of scalable mobile applications using Flutter and Supabase.
+
+### Scope of Work
+
+- Developed modular Flutter applications
+- Implemented BLoC architecture
+- Integrated Supabase backend services
+- Worked on debugging and feature enhancement
+- Improved application maintainability
+
+### Skills
+
+`Flutter` `Dart` `BLoC` `Supabase` `Mobile Development`
+
+---
+
+# Achievements
 
 <div align="center">
 
 | Recognition | Details |
-|---|---|
+|-------------|---------|
 | Open Source Contributor | GirlScript Summer of Code |
-| Generative AI Career Essentials | Microsoft & LinkedIn |
+| AI Project Development | Emotion-Aware AI Chatbot |
+| Research Internship | IIT Mandi |
+| Full Stack Development | MERN Applications |
+| Software Engineering | Backend & API Development |
 
 </div>
 
 ---
 
-### 📜 Certifications
+# Certifications
 
-**Microsoft & LinkedIn**
+## AWS
 
-![Generative AI](https://img.shields.io/badge/Career%20Essentials%20in%20Generative%20AI-7C3AED?style=flat-square&logo=microsoft&logoColor=white)
+![](https://img.shields.io/badge/AWS-Learning-FF9900?style=for-the-badge&logo=amazonaws)
 
----
+## Microsoft
 
-### 💻 Coding Profiles
+![](https://img.shields.io/badge/Career%20Essentials%20in%20Generative%20AI-Completed-0078D4?style=for-the-badge&logo=microsoft)
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-A78BFA?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/AnujSisodiya)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-8B5CF6?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org)
-[![HackerRank](https://img.shields.io/badge/HackerRank-6D28D9?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com)
-[![CodeChef](https://img.shields.io/badge/CodeChef-6366F1?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com)
+## Oracle
 
----
+![](https://img.shields.io/badge/Oracle-Learning-F80000?style=for-the-badge&logo=oracle)
 
-### 📊 GitHub Analytics
+## Cisco
 
-<div align="center">
+![](https://img.shields.io/badge/Cisco-Learning-1BA0D7?style=for-the-badge&logo=cisco)
 
-<img src="https://github-readme-stats.vercel.app/api?username=AnujSisodiya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=c9d1d9" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AnujSisodiya&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="49%"/>
+## NPTEL
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnujSisodiya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=c9d1d9" width="49%"/>
-
-</div>
+![](https://img.shields.io/badge/NPTEL-Certified-5B21B6?style=for-the-badge)
 
 ---
 
-### 🏅 GitHub Trophies
+# Coding Profiles
 
-<div align="center">
+<p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=AnujSisodiya&theme=darkhub&no-frame=true&row=1&column=6&margin-w=10" />
+<a href="https://leetcode.com">
+<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode"/>
+</a>
 
-</div>
+<a href="https://geeksforgeeks.org">
+<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks"/>
+</a>
+
+<a href="https://hackerrank.com">
+<img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank"/>
+</a>
+
+<a href="https://codechef.com">
+<img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge"/>
+</a>
+
+</p>
 
 ---
 
-### 📈 Contribution Activity
+# GitHub Analytics
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnujSisodiya&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=6D28D9" width="100%"/>
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnujSisodiya&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AnujSisodiya&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnujSisodiya&layout=compact&theme=tokyonight"/>
+
+</p>
 
 ---
 
-### 🐍 Contribution Snake
+# GitHub Trophies
 
-<img src="https://raw.githubusercontent.com/AnujSisodiya/AnujSisodiya/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=AnujSisodiya&theme=tokyonight&row=1&column=7"/>
+
+</p>
 
 ---
 
-### 🎯 Current Focus
+# Contribution Activity
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnujSisodiya&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# Current Focus
 
 ```yaml
-learning:
-  - AWS Cloud Practitioner & Solutions Architect Associate
-  - Azure Fundamentals (AZ-900)
-  - Advanced Data Structures & Algorithms
+Learning:
+  - AWS Cloud
+  - Advanced Backend Engineering
+  - System Design
+  - DevOps
 
-building:
-  - Real-time multiplayer typing practice platform
-  - AI weakness coach for adaptive learning
-  - Cloud-native full-stack applications
+Building:
+  - Full Stack Applications
+  - AI Powered Solutions
+  - Cloud Native Projects
 
-exploring:
-  - Distributed systems design
-  - AI/ML model deployment at scale
+Exploring:
+  - Generative AI
+  - Distributed Systems
+  - Scalable Architectures
 
-open_to:
-  - Software Engineer roles
-  - Cloud Engineering roles
-  - Full Stack Developer positions
+Open To:
+  - Software Engineering Roles
+  - Backend Development
+  - Full Stack Development
+  - AI Engineering
 ```
 
 ---
 
-### 📬 Connect
+# Connect
 
-[![Gmail](https://img.shields.io/badge/Gmail-A78BFA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anujsisodiya456@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anujsisodiya)
-[![GitHub](https://img.shields.io/badge/GitHub-6D28D9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnujSisodiya)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/AnujSisodiya)
+<p align="center">
+
+<a href="mailto:anujsisodiya456@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://linkedin.com/in/anujsisodiya">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/AnujSisodiya">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
 
 ---
 
 <div align="center">
 
-*"Code is the bridge between ideas and impact."*
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
+### "Building scalable software solutions that create real-world impact."
 
 </div>
-```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:6A11CB,50:8E2DE2,100:4A00E0"/>
+
+````
+
+Built using your resume details and the README specification from the uploaded files.
