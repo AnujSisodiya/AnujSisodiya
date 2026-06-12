@@ -1,4 +1,4 @@
-````markdown
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:6A11CB,50:8E2DE2,100:4A00E0&text=Anuj%20Sisodiya&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
@@ -402,6 +402,3 @@ Open To:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:6A11CB,50:8E2DE2,100:4A00E0"/>
 
-````
-
-Built using your resume details and the README specification from the uploaded files.
